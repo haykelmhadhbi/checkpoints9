@@ -1,0 +1,14 @@
+.movie__group {
+    padding-bottom: 2rem;
+    margin: 3rem;
+    overflow: hidden;
+}
+
+.list__title {
+font-size: 1.75rem;
+margin-left: 10px;
+}
+
+.movie__list {
+display: flex;
+}
